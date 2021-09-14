@@ -1,6 +1,6 @@
 ## Sharing Data in a Gunicorn + Flask application 
 Example code for sharing data in a Python WSGI HTTP Server
-Detailed explanation can be found [here]()
+Detailed explanation can be found [here](https://medium.com/@jgleeee/sharing-data-across-workers-in-a-gunicorn-flask-application-2ad698591875) @ Medium
 
 
 ### Setup
