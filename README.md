@@ -6,7 +6,7 @@ Detailed explanation can be found [here](https://medium.com/@jgleeee/sharing-dat
 ### Setup
 - Please refer to the `requirements.txt`
 - ```
-  $ pip install -r requriements.txt
+  $ pip install -r requirements.txt
   ```
 
 
